@@ -38,3 +38,13 @@ print(a > 1 and a == 5)
 # El operador ! (distinto/negación) es NOT
 print(not a == 10)
 
+print(2**3) #potencia
+print(8 ** (1/3)) #raiz cubica
+
+print(not True) #negacion
+
+edad = input("cuantos años tenes: ")
+print(type(edad))
+
+
+
