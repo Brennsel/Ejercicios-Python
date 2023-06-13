@@ -15,4 +15,8 @@ nombres = ["Susana","Alejandro","Roberto"]
 nombres.insert(2, "Paula")
 nombres.append("Silvina")
 
-print(nombres)
+contador = 0;
+
+while contador < len(nombres) :
+    print(nombres[contador])
+    contador += 1
